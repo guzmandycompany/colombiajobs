@@ -1,0 +1,8 @@
+.justify-text {
+    text-align: justify; /* Justifica el texto */
+}
+
+
+.bg-body-tertiary {
+    font-family: 'Roboto', sans-serif; /* Cambia 'Roboto' por el nombre de la fuente que elegiste */
+}

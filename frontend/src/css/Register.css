@@ -1,0 +1,32 @@
+.register-container {
+    display: flex; /* Para usar Flexbox */
+    height: 100vh; /* O cualquier altura deseada */
+}
+
+.left-video {
+    flex: 1; /* Para que el video ocupe el espacio disponible */
+    object-fit: cover; /* Asegura que el video cubra el área */
+}
+
+.form-signin {
+    flex: 1; /* Para que el formulario ocupe el espacio restante */
+    display: flex;
+    flex-direction: column; /* Para apilar elementos verticalmente */
+    justify-content: center; /* Centra verticalmente */
+    padding: 20px; /* Espaciado interior */
+}
+
+.custom-button {
+    background-color: #98A6A2; /* Cambia esto al color que desees */
+    color: white; /* Color del texto */
+    border: none; /* Quita el borde */
+    padding: 10px 20px; /* Espaciado interno */
+    border-radius: 5px; /* Esquinas redondeadas */
+    cursor: pointer; /* Cambia el cursor al pasar el ratón */
+    transition: background-color 0.3s; /* Transición suave */
+}
+
+.custom-button:hover {
+    background-color: #0056b3; /* Cambia el color al pasar el ratón */
+}
+

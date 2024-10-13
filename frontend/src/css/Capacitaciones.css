@@ -1,0 +1,74 @@
+/* Asegurarse de que los estilos de los botones sean aplicados correctamente */
+.btn-ti {
+    background-color: #61788C !important; /* Aumentar la prioridad con !important */
+    color: white !important;
+  }
+  
+  .btn-gp {
+    background-color: #61788C !important;
+    color: white !important;
+  }
+  
+  .btn-vm {
+    background-color: #61788C !important;
+    color: white !important;
+  }
+  
+  .btn-dp {
+    background-color: #61788C !important;
+    color: white !important;
+  }
+  
+  .btn-idiomas {
+    background-color: #61788C !important;
+    color: white !important;
+  }
+  
+  .btn-cn {
+    background-color: #61788C !important;
+    color: white !important;
+  }
+  
+  .btn-SB {
+    background-color: #61788C !important;
+    color: white !important;
+  }
+  
+  .circular-image {
+    width: 150px; /* Ajusta el tamaño de la imagen */
+    height: 150px; /* Asegúrate de que el ancho y el alto sean iguales */
+    border-radius: 50%; /* Esto hace que la imagen sea circular */
+    object-fit: cover; /* Esto asegura que la imagen se recorte correctamente y llene el contenedor */
+  }
+  .icon-square {
+    width: 150px; /* Asegúrate de que el ancho coincida con el de la imagen */
+    height: 150px; /* Asegúrate de que el alto coincida con el de la imagen */
+    display: flex; /* Para centrar la imagen */
+    align-items: center; /* Centrar verticalmente */
+    justify-content: center; /* Centrar horizontalmente */
+    overflow: hidden; /* Esto asegura que no haya desbordamiento */
+    border-radius: 50%; /* Hace que el contenedor sea circular también */
+    background-color: #f0f0f0; /* Color de fondo opcional para el contenedor */
+}
+
+  
+  .btn-hb {
+    background-color: #61788C !important;
+    color: white !important;
+  }
+
+  .btn-FC {
+    background-color: #61788C !important; 
+    color: white !important;
+  }
+
+  .btn-SB {
+    background-color: #61788C !important;
+    color: white !important;
+  }
+
+  .capacitacion-container {
+    background-color: white; /* Cambia el color según sea necesario */
+    padding: 20px; /* Ajusta el padding si es necesario */
+}
+

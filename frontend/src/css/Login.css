@@ -1,0 +1,21 @@
+.form-signin {
+    max-width: 400px; /* Ancho máximo del cuadro */
+    margin: auto; /* Centrar el cuadro en la página */
+    padding: 20px; /* Espaciado interno */
+    border: 1px solid #ccc; /* Borde del cuadro */
+    border-radius: 8px; /* Esquinas redondeadas */
+    background-color: #223240; /* Color de fondo */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+}
+
+.form-signin img {
+    display: block; /* Hace que la imagen se comporte como un bloque */
+    margin-left: auto; /* Centra la imagen a la izquierda */
+    margin-right: auto; /* Centra la imagen a la derecha */
+    margin-bottom: 20px; /* Espaciado inferior */
+}
+
+.form-floating {
+    display: flex; /* Para usar Flexbox */
+    height: 12vh; /* O cualquier altura deseada */
+}
